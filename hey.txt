@@ -7,3 +7,9 @@
 ||adsmoloco.com^
 ||abr.ge^
 ||*.pangle.io^
+
+
+||akamaiedge.net^
+||edgekey.net^
+||akadns.net^
+||akamaiedge.net^
